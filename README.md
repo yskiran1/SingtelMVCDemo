@@ -1,5 +1,5 @@
 Setting up code :-
-  clone the project from github link()
+  clone the project from github link(https://github.com/yskiran1/SingtelMVCDemo)
   import as maven project to your local and resolve maven dependencies
 
 Source Code :-
